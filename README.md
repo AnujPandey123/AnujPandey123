@@ -3,7 +3,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&duration=900&pause=1&color=106FF7&random=false&width=435&lines=Anuj+Pandey;" alt="Typing SVG" /></a>
     </div>
     <div align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25+&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Aakarshit+Srivastava;Machine+Learning+Expert;Data+Scientist;Cloud+Architect;Software+Developer;AWS+Solution+Architect;Android+Ios+Developer;Web+Development+Frameworks;Emerging+Tech+Researcher;Quantum+Based+Algorithms;" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25+&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Anuj+Pandey;Machine+Learning+Expert;Data+Scientist;Cloud+Architect;Software+Developer;AWS+Solution+Architect;Android+Ios+Developer;Web+Development+Frameworks;Emerging+Tech+Researcher;Quantum+Based+Algorithms;" alt="Typing SVG" /></a>
     </div>
     <div align="center">
     <a href="https://api.whatsapp.com/send?phone=919455080726"><img src="https://github.com/Ayushverma135/Ayushverma135/assets/120269805/a63dc3b2-47ca-497c-8302-d32abcad18ed" width="35" height="35" style="margin-right: 10px;" /></a>
