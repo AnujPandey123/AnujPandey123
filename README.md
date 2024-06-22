@@ -11,7 +11,7 @@
     <a href="mailto:anujpandey0513@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="https://t.me/Anuj0513"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="35" height="35" style="margin-right: 10px;" /></a>
 </div>
-        <br />
+        <br/>
         <p>
             <strong>
                As a seasoned full-stack developer with a deep-rooted passion for AI, machine learning, and data science, I've cultivated a robust skill set across diverse domains, making a significant impact in the tech industry. My journey has equipped me with a wealth of knowledge and experience, enabling me to excel as a versatile force in technology.
@@ -35,9 +35,8 @@ With a comprehensive skill set and a relentless drive to innovate, I am poised t
             </li>
             
         </ul>
-        <br />
+        <br/>
     </div>
-```py
 About Me = [
     "I am a driven student with a fervent passion for Artificial Intelligence, particularly in the realms of Automation and Robotics, fueling my journey of steep and continuous learning."
 
@@ -47,7 +46,6 @@ About Me = [
 
 "In a world where efficiency and speed are paramount, I specialize in crafting elegant solutions that optimize performance and innovation, ensuring each project I undertake meets the highest standards of excellence.💻✨"
 ]
-```
 <div align="center">
     <h1>🧠Skills Set 🦾🤖</h1>
     <h4>Below are several key technologies 🛰 I've utilized or been involved with.👨‍💻📈</h4>
@@ -127,9 +125,8 @@ About Me = [
     <h3><b>Networking</b></h3>
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/54c83453-be24-4078-8330-db71fac5a0fb" title="WireShark" alt="WireShark" width="90" height="40"/></a></code>&nbsp;
 </div>
-
-    <br><br>
-    <br><br>
+    <br></br>
+    <br></br>
 </div>
 </div>
 <a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
