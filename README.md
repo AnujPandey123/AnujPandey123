@@ -135,7 +135,7 @@ About Me = [
 <div align="center"><h3><b>GitHub Stats</b></h3></div>
 <div align="center">
 
-![Aakarshit's Stats](https://github-readme-stats.vercel.app/api?username=AnujPandey123&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+![Anuj's Stats](https://github-readme-stats.vercel.app/api?username=AnujPandey123&theme=transparent&show_icons=true&hide_border=false&count_private=true)
 
 <hr>
 
